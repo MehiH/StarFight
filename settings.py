@@ -10,3 +10,4 @@ class Settings:
 
         # Star settings
         self.star_speed = 1.5
+        print("TEsting git's change detection ability.")
